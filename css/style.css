@@ -33,6 +33,7 @@
     
     .message {
       display: block; /* show the message */
+        text-align : center;
     
     }
   }
